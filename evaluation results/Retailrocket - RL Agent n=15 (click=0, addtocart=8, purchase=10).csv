@@ -1,0 +1,13 @@
+Dataset,Algorithm,Reward Function,Metric,Value
+Retailrocket,RL Agent n=15,"click=0, addtocart=8, purchase=10",MRR@2: ,0.005054699064880673
+Retailrocket,RL Agent n=15,"click=0, addtocart=8, purchase=10",MRR@3: ,0.005608308962462844
+Retailrocket,RL Agent n=15,"click=0, addtocart=8, purchase=10",MRR@4: ,0.005933253902348029
+Retailrocket,RL Agent n=15,"click=0, addtocart=8, purchase=10",MRR@5: ,0.006120999867615025
+Retailrocket,RL Agent n=15,"click=0, addtocart=8, purchase=10",MRR@10: ,0.00644436879588701
+Retailrocket,RL Agent n=15,"click=0, addtocart=8, purchase=10",MRR@15: ,0.006537804743386577
+Retailrocket,RL Agent n=15,"click=0, addtocart=8, purchase=10",MRR@20: ,0.006598833608515225
+Retailrocket,RL Agent n=15,"click=0, addtocart=8, purchase=10",HitRate@1: ,0.0036466043253782
+Retailrocket,RL Agent n=15,"click=0, addtocart=8, purchase=10",HitRate@2: ,0.0064627938043831466
+Retailrocket,RL Agent n=15,"click=0, addtocart=8, purchase=10",HitRate@3: ,0.008123623497129653
+Retailrocket,RL Agent n=15,"click=0, addtocart=8, purchase=10",HitRate@4: ,0.009423403256670397
+Retailrocket,RL Agent n=15,"click=0, addtocart=8, purchase=10",HitRate@5: ,0.01036213308300538
