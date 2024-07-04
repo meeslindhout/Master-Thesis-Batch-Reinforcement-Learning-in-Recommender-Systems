@@ -11,3 +11,6 @@ Retailrocket,VSTAN (Baseline),no reward func,HitRate@2: ,0.426002816189479
 Retailrocket,VSTAN (Baseline),no reward func,HitRate@3: ,0.4821821857962956
 Retailrocket,VSTAN (Baseline),no reward func,HitRate@4: ,0.5179261291836661
 Retailrocket,VSTAN (Baseline),no reward func,HitRate@5: ,0.5438134093945193
+Retailrocket,VSTAN (Baseline),no reward func,HitRate@10: ,0.6104993320576235
+Retailrocket,VSTAN (Baseline),no reward func,HitRate@15: ,0.6421634111997689
+Retailrocket,VSTAN (Baseline),no reward func,HitRate@20: ,0.6634653572589089
