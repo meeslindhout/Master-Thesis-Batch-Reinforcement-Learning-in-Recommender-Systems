@@ -1,0 +1,13 @@
+Dataset,Algorithm,Reward Function,Metric,Value
+Retailrocket,VSTAN (Baseline),no reward func,MRR@2: ,0.37179116871863377
+Retailrocket,VSTAN (Baseline),no reward func,MRR@3: ,0.3905176252542428
+Retailrocket,VSTAN (Baseline),no reward func,MRR@4: ,0.3994536111010859
+Retailrocket,VSTAN (Baseline),no reward func,MRR@5: ,0.4046310671432596
+Retailrocket,VSTAN (Baseline),no reward func,MRR@10: ,0.4136856263729281
+Retailrocket,VSTAN (Baseline),no reward func,MRR@15: ,0.41618839252880174
+Retailrocket,VSTAN (Baseline),no reward func,MRR@20: ,0.4173994155770146
+Retailrocket,VSTAN (Baseline),no reward func,HitRate@1: ,0.31757952124778854
+Retailrocket,VSTAN (Baseline),no reward func,HitRate@2: ,0.426002816189479
+Retailrocket,VSTAN (Baseline),no reward func,HitRate@3: ,0.4821821857962956
+Retailrocket,VSTAN (Baseline),no reward func,HitRate@4: ,0.5179261291836661
+Retailrocket,VSTAN (Baseline),no reward func,HitRate@5: ,0.5438134093945193
