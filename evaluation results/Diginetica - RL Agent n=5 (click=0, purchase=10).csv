@@ -1,0 +1,13 @@
+Dataset,Algorithm,Reward Function,Metric,Value
+Diginetica,RL Agent n=5,"click=0, purchase=10",MRR@2: ,0.024931815486778135
+Diginetica,RL Agent n=5,"click=0, purchase=10",MRR@3: ,0.028199401820888717
+Diginetica,RL Agent n=5,"click=0, purchase=10",MRR@4: ,0.0302004690567478
+Diginetica,RL Agent n=5,"click=0, purchase=10",MRR@5: ,0.03150486844012279
+Diginetica,RL Agent n=5,"click=0, purchase=10",MRR@10: ,0.03480817047163524
+Diginetica,RL Agent n=5,"click=0, purchase=10",MRR@15: ,0.03614064170805512
+Diginetica,RL Agent n=5,"click=0, purchase=10",MRR@20: ,0.03676273008286382
+Diginetica,RL Agent n=5,"click=0, purchase=10",HitRate@1: ,0.017965136961935253
+Diginetica,RL Agent n=5,"click=0, purchase=10",HitRate@2: ,0.031898494011621016
+Diginetica,RL Agent n=5,"click=0, purchase=10",HitRate@3: ,0.041701253013953124
+Diginetica,RL Agent n=5,"click=0, purchase=10",HitRate@4: ,0.04970552195738962
+Diginetica,RL Agent n=5,"click=0, purchase=10",HitRate@5: ,0.056227518874263804

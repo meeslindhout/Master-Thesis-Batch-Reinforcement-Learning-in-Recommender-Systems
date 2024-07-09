@@ -1,0 +1,16 @@
+Dataset,Algorithm,Reward Function,Metric,Value
+Diginetica,VSTAN (Baseline),no reward func,MRR@2: ,0.14417565911696115
+Diginetica,VSTAN (Baseline),no reward func,MRR@3: ,0.15956493669050956
+Diginetica,VSTAN (Baseline),no reward func,MRR@4: ,0.16854750517147826
+Diginetica,VSTAN (Baseline),no reward func,MRR@5: ,0.17453983688419267
+Diginetica,VSTAN (Baseline),no reward func,MRR@10: ,0.1874952159474288
+Diginetica,VSTAN (Baseline),no reward func,MRR@15: ,0.19219179609758616
+Diginetica,VSTAN (Baseline),no reward func,MRR@20: ,0.19440138820977468
+Diginetica,VSTAN (Baseline),no reward func,HitRate@1: ,0.10943120281434049
+Diginetica,VSTAN (Baseline),no reward func,HitRate@2: ,0.1789201154195818
+Diginetica,VSTAN (Baseline),no reward func,HitRate@3: ,0.2250879481402427
+Diginetica,VSTAN (Baseline),no reward func,HitRate@4: ,0.2610182220641132
+Diginetica,VSTAN (Baseline),no reward func,HitRate@5: ,0.2909798806276928
+Diginetica,VSTAN (Baseline),no reward func,HitRate@10: ,0.38792047116486816
+Diginetica,VSTAN (Baseline),no reward func,HitRate@15: ,0.44729040673544407
+Diginetica,VSTAN (Baseline),no reward func,HitRate@20: ,0.48671884264200166
