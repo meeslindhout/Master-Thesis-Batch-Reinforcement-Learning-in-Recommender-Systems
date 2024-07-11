@@ -8,7 +8,6 @@ from math import sqrt, exp
 import random
 import time
 
-from pympler import asizeof
 import numpy as np
 import pandas as pd
 from math import log10
